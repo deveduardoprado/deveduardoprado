@@ -1,6 +1,7 @@
 ### 
-<h1>Olá Mundo, Eu sou Eduardo Prado desenvolvedor em progresso. 😉</h1>
- <h2 style>### =======LOADING======90%==</h2>
+<h1>Olá Mundo,</h1> 
+<h2>Eu sou Eduardo Prado desenvolvedor em progresso. 😉</h2>
+ <h3>### =======LOADING======90%==</h3>
 
 
 <div align="center">
