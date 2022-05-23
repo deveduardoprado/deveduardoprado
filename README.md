@@ -16,7 +16,6 @@
   <img align="center" alt="DevEdu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DevEdu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DevEdu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="DevEdu-pic" style="border-radius:50px;" src="https://i.picasion.com/pic92/e6f85da6c2e577fde8e10d10fea2b14e.gif">
 </div>
     
   ##
@@ -27,6 +26,5 @@
     <a href = "mailto:dev.eduardoprado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/imageek" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
-  ![Snake animation](https://github.com/deveduardoprado/deveduardoprado/blob/output/github-contribution-grid-snake.svg)
+   <img align="right" alt="DevEdu-pic" style="border-radius:50px;" src="https://i.picasion.com/pic92/e6f85da6c2e577fde8e10d10fea2b14e.gif">
 
